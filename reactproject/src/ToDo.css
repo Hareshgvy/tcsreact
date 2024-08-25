@@ -1,0 +1,19 @@
+th{
+    background-color: brown;
+}
+
+th {
+    margin: 10px;
+    padding: 11px;
+    font-size: 21px;
+    font-family: cursive;
+    background-color: burlywood;
+}
+
+td {
+    color: gray;
+    font-size: 18px;
+    font-style: italic;
+    padding: 12px;
+    margin: 10px;
+}
